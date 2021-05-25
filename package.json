@@ -1,0 +1,14 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Aprendiendo Ecmascript con Oscar Baraja en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecmascript"
+  ],
+  "author": "DarkusPhantom",
+  "license": "ISC"
+}
