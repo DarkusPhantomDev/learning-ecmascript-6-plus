@@ -1,3 +1,4 @@
+//es8
 //Object.entries
 const data = {
   frontend: "Luis",
