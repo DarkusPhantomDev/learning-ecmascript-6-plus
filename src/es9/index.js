@@ -1,3 +1,4 @@
+//es9
 const obj = {
   name: "luis",
   age: 22,
